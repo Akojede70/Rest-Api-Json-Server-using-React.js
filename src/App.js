@@ -19,7 +19,6 @@ function App() {
           <Route path="/employee/edit/:empid" element={<EmpEdit />}></Route>
         </Routes>
       </BrowserRouter>
-      ;
     </div>
   );
 }

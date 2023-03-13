@@ -42,6 +42,13 @@
       "phone": "78383838",
       "active": true,
       "id": 10
+    },
+    {
+      "name": "Peter Akojede",
+      "email": "akojedepete@gmail.com",
+      "phone": "2347067114479",
+      "active": true,
+      "id": 11
     }
   ]
 }
